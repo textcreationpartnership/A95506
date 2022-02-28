@@ -1,0 +1,409 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The resolver continued, or Satisfaction to some scruples about putting the late King to death. In a letter from a minister of the Gospel, to a Friend in London; together, with a word to the Parliament, the High Court of Justice, Malignants, discontented Friends, and the People of the Nation.</title>
+            <author>N. T.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95506</idno>
+            <idno type="STC">Wing T39</idno>
+            <idno type="STC">Thomason E546_17</idno>
+            <idno type="STC">ESTC R206112</idno>
+            <idno type="EEBO-CITATION">99865292</idno>
+            <idno type="PROQUEST">99865292</idno>
+            <idno type="VID">117531</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95506)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117531)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E546[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The resolver continued, or Satisfaction to some scruples about putting the late King to death. In a letter from a minister of the Gospel, to a Friend in London; together, with a word to the Parliament, the High Court of Justice, Malignants, discontented Friends, and the People of the Nation.</title>
+                  <author>N. T.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Clowes, for Hannah Allen, at the Crown in Popes-head-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated at end: N.T. Febr. the 20. 1648.</note>
+                  <note>Annotation on Thomason copy: "March. 12 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117531:1" rendition="simple:additions"/>
+            <p>
+               <hi>THE</hi> Reſolver Continued, OR, SATISFACTION TO SOME SCRUPLES ABOUT The putting of the late <hi>King</hi> to death.</p>
+            <p>IN A Letter from a Miniſter of the Goſpel, To a Friend in <hi>London;</hi> Together, with a word to the Parliament, the high Court of Juſtice, Malignants, diſ<g ref="char:EOLhyphen"/>contented Friends, and the People of the Nation.</p>
+            <q>
+               <l>
+                  <hi>Ad generem cereris, ſine cade &amp; vulnere, pauci</hi>
+               </l>
+               <l>
+                  <hi>Deſcendunt Reges, &amp; ſicca morte</hi> Tyranni.</l> 
+               <bibl>Ju. Sat. 10.</bibl>
+            </q>
+            <q>— <hi>Victiona haud ulla amplior, poteſt, magiſve opima mactari Jovi, quam Rex iniquus.</hi>— <bibl>Seneca. Herc. fur.</bibl>
+            </q>
+            <q>
+               <hi>Aſſemble your ſelves and come, gather your ſelves on every ſide to my</hi> Sacrifice, <hi>that I do</hi> ſacrifice <hi>for you, even a great</hi> Sacrifice, <hi>up<g ref="char:EOLhyphen"/>on the Mountains of</hi> Iſrael; <hi>that ye may eat fleſh, and drink blood, ye ſhall eat the fleſh of the mighty, and drink the blood of Princes,</hi> &amp;c,— <bibl>Ezek. 39.17.10.</bibl>
+            </q>
+            <p>London, <hi>Printed by</hi> J. Clowes, <hi>for</hi> Hannah Allen, <hi>at the</hi> Crown <hi>in</hi> Popes-head-Alley. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117531:2"/>
+            <pb n="1" facs="tcp:117531:2"/>
+            <head>THE Reſolver Continued, OR. Satisfaction to ſome Scruples, about the <hi>putting of the late King to death.</hi>
+            </head>
+            <opener>
+               <salute>Deare Friend,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>Ruth is the Daughter of Time,</hi> not but that <hi>Truth</hi> was before <hi>Time,</hi> [for it is of an Eternall Nature;] but becauſe <hi>Time,</hi> that diſcovereth all things, diſcovereth it: Therefore <hi>Truth</hi> is called <hi>Times daughter.</hi> But in more proper Phraſe, <hi>Time</hi> may be called <hi>Truths diſcoverer.</hi> Partiality, and Paſſion are two great Clouds that doe ecclipſe Truthes diſcovery, and till thoſe are blowne over [though that truth bee up, yet] it is not ſeene. The truth of <hi>A Peoples power both to queſtion and puniſh Tyrannous Princes,</hi> is a Truth bearing date, before the Creation of Kings.</p>
+            <p>Pure nature, and right reaſon, were as two great Pillars up<g ref="char:EOLhyphen"/>on which that Truth was Ingraven with great Characters; ſo
+<pb n="2" facs="tcp:117531:3"/>he that ra<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ne might read this, that as A people <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> unto <hi>Kings,</hi> when not. See it was in their power, for to <hi>nullifie</hi> that being, when it proved <hi>nought.</hi> 'Tis true, Government is of a divine Originall, but the diſpoſall thereof is humane. <hi>God made Power,</hi> but <hi>People made Princes.</hi>
+            </p>
+            <p>Kings, in regard of <hi>Power,</hi> they are of <hi>God,</hi> [and by him they reigne] but yet in regard of their <hi>Perſons,</hi> they are but from <hi>men.</hi> As the Deity would not permit people, to live without a Government; ſo it would not priviledge Gover<g ref="char:EOLhyphen"/>nours to rule without controule.</p>
+            <p>
+               <hi>Lex</hi> indeed is from heaven, but <hi>Rex</hi> is mundane. As Kings were <hi>after,</hi> ſo they are <hi>under</hi> Law. The Septer of Government is <hi>golden,</hi> but the hand which holdeth it is <hi>clay:</hi> when this is broken [becauſe rotten] that remaineth, becauſe tis righteous. Albeit people may not <hi>caſt off juſt power,</hi> yet they may <hi>caſt off unjuſt Princes.</hi> And as 'tis their <hi>Priviledge,</hi> ſo it will be their <hi>prudence</hi> (both pious, and politique) to intruſt that Rule, in the hands of many, which hath been abuſed, and ill managed in the hands of one. When power contracted purifieth (as it doth moſt commonly, when it is pent up, in a <hi>Monarchtick Cabbin</hi>) the beſt way to rarifie it, is to give it the larger roome of an <hi>Ari<g ref="char:EOLhyphen"/>ſtocratick counſell.</hi>
+            </p>
+            <p>Theſe beames ſhined bright enough, and were ſeen clearely in former Ages; untill the <hi>pride of Princes,</hi> made them deſire, and the <hi>flattery of Paraſites</hi> made them beleeve, they were re<g ref="char:EOLhyphen"/>ſponſible to none, but God: they ſaw clearely, and convincing<g ref="char:EOLhyphen"/>ly: that as a People made them their Rulers; ſo they were bound to rule, and to be ruled, by a Law: which if once they did caſt off, the people might caſt them off. He was not (as we ſay) a Widgeon, that when he committed the Sword of Juſtice to an inferiour Officer, was wont to ſay <hi>As long as I doe Juſtice, man<g ref="char:EOLhyphen"/>nage this for me, but when I ceaſe to do Juſtice, uſe it againſt me.</hi>
+            </p>
+            <p>Tyranny invaded all Governments together. The <hi>Popes infal<g ref="char:EOLhyphen"/>libility,</hi> and the <hi>unqueſtionableneſſe of Kings,</hi> are both of them <hi>Monſters</hi> of the ſame Litter. And as the <hi>Pope</hi> was cryed up to be the <hi>ſole Head of the Church,</hi> and if he carried Millions to hell (ſaid the <hi>Jeſuits</hi>) none may controule him: ſo <hi>Princes</hi> were Proclaimed <hi>ſole Soveraignes of States,</hi> and that their will were all
+<pb n="3" facs="tcp:117531:3"/>the <hi>Law</hi> by which they ruled [ſaid their Flatterers] none might ſay unto them; <hi>what doſt thou.</hi>
+            </p>
+            <p>I cannot tell, what fatall Conjunction hath been, between the two <hi>viſible Heads</hi> (as they were commonly called and accounted) of the <hi>State Eccleſiaſtique,</hi> and <hi>Pollitique.</hi> But ſurely, their corruption hath ſo been alike, as that I am apt to beleeve (if they were not twinnes, borne at once, yet) they are <hi>Bretheren of Iniquitie,</hi> bredd, and brought forth from the ſame Wombe of Wickedneſſe and Pride. If as the <hi>Corruption</hi> of both did <hi>Coutemporize</hi> in <hi>the birth,</hi> it joyne in its <hi>Death;</hi> I ſhall not wonder, They that ſaid, <hi>No Biſhop, no King;</hi> ſpake truth, though unawares. And the downefall of <hi>Papall Biſhops,</hi> and <hi>Tyrannous Kings,</hi> will not differ much in the time.</p>
+            <p>I am glad my laſt was ſo ſatisfactory unto you, as that you were pleaſed to call it a <hi>Reſolver.</hi>
+            </p>
+            <p>It is the glory of truth, when it is held forth by any it can reſlove; Onely, ſome are ſo impudent, as to ſay, that it is not day when the Sunne it ſelf doth ſhine: we have a ſaying, <hi>who ſo blind, as he that will not ſee?</hi> Surely, <hi>wilfulnes</hi> is the greateſt blindnes.</p>
+            <p>'Tis a Divine truth, men are not onely <hi>Ignorant,</hi> becauſe <hi>they cannot,</hi> but becauſe <hi>they will not</hi> know the truth.</p>
+            <p>The <hi>Schoole-men</hi> have well obſerved, that there is <hi>Ignoran<g ref="char:EOLhyphen"/>tia pravae diſpoſitionis,</hi> as well as <hi>Ignorantia purae negationis,</hi> without doubt, in many things, the reaſon why people ſee no more, is not for want of <hi>light,</hi> but for want of <hi>will;</hi> This maketh me think the ſcruples of many about the King are ra<g ref="char:EOLhyphen"/>ther the brats of wilfulneſſe, then any thing elſe.</p>
+            <p>Yet I ſhall not deny, but that unto ſome <hi>weake ones,</hi> what you mention may have a <hi>face of reaſon,</hi> to continue them as Scruples; But that others, whoſe parts, and intellects, are head and ſhouldiers above mine, that ſuch can <hi>ſtumble,</hi> at thoſe <hi>Strawes,</hi> you muſt pardon me, if I doe not be<g ref="char:EOLhyphen"/>leeve.</p>
+            <p>At your entreaty I ſhall once more <hi>trifle</hi> away an houre, to ſatisfy you in the things you mention; and I hope you
+<pb n="4" facs="tcp:117531:4"/>will pardon me if I be plaine, and I ſhall rejoyce my <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> may have power to reſolve any, that really ſcruple <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> receive, or give ſatisfaction is a beſeeming imployment.</p>
+            <p>The Commander that doth lead your <hi>ſcrupling party,</hi> hath a great name, it is called <hi>Covenant;</hi> and that name you th<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> argue.</p>
+            <p>
+               <hi>Let it be granted, that</hi> Charles Stewart <hi>was guilty, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a Bill of Indictment, may be read againſt him in Letters of blo<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> yet did we not in particular Covenant to preſerve his Perſon</hi> What if he broke Covenant with us, [turning <hi>Tyrant,</hi> when he ſhould have ruled as <hi>King</hi>] and ſo did deſerve to dye like a <hi>Malefactor,</hi> who might have lived as a <hi>Monarch.</hi>
+            </p>
+            <p>What of this [ſay you] ſhould we break <hi>Covenant</hi> with God? and ſhould we preſume, to put him to death as a <hi>Traytor,</hi> whom we ſweare to preſerve as a King?</p>
+            <p>In anſwer unto this, I ſhall offer unto your ſerious conſide<g ref="char:EOLhyphen"/>ration, theſe things: and becauſe I know you are wife, I will rather ſpeake <hi>words,</hi> then dilate in <hi>ſentences.</hi>
+            </p>
+            <p>Firſt, the <hi>Covenant</hi> which was made [and you mention] was not an <hi>abſolute,</hi> but a <hi>conditionall Covenant;</hi> It was not a <hi>Covenant of free grace</hi> [ſuch as God maketh with men] but of his <hi>love mixed with Juſtice</hi> [ſuch as an Indulgent people make with a ſeduced Prince] yet ſo, as to be <hi>juſt</hi> unto the <hi>Nation,</hi> while <hi>mercifull</hi> unto him.</p>
+            <p>Had we ſworn <hi>hand over head</hi> [as we uſe to ſay] to preſerve the Kings Perſon <hi>Perfas &amp; nefas,</hi> in all caſes whatſoever; this had been a <hi>Covenant</hi> altogether of <hi>Free-grace</hi> unto him; but not of Juſtice unto the <hi>Land.</hi> And certainly, ſuch a Cove<g ref="char:EOLhyphen"/>nant as this, had it paſſed the hands of ſome <hi>Minions of Mo<g ref="char:EOLhyphen"/>narchy:</hi> could never have entered into the hearts of any that are <hi>Lovers of equity.</hi> It is above my power to Covenant with my <hi>enraged parent,</hi> who ſtandeth ready to deſtroy me, and my brethren, that come what will, I will preſerve his life. Suppoſe it were ſo, that if I killed not him, he would kill me? Or ſuppoſe, he ſhould kill ſome of my brethren, durſt I, or ought I to Covenant [in that caſe] his preſervati<g ref="char:EOLhyphen"/>on? Or if I were ſo weake as to make raſhly; were it not my wiſdom to receede repentingly from ſuch a Covenant?
+<pb n="5" facs="tcp:117531:4"/>Doubtleſſe the <hi>civill obligation of a people</hi> unto <hi>Princes,</hi> doth not amount higher, [if ſo high] as the <hi>naturall tye of children unto parents.</hi>
+            </p>
+            <p>Secondly, the condition of the Covenant is cleare; for it is expreſſy provided, that the Kings perſon ſhould be within the pale of the <hi>(Rights and Priviledges of Parliament, the true Religion and Liberties of the Kingdom)</hi> all the while, the Cove<g ref="char:EOLhyphen"/>nant ſhould bind any unto his preſervation.</p>
+            <p>Though the life of the King were to be preſerved as <hi>preci<g ref="char:EOLhyphen"/>ous,</hi> it was becauſe it was <hi>bound up</hi> in the <hi>bundle</hi> of <hi>Religion, Liberty,</hi> and <hi>Priviledges;</hi> if therefore it fell out of that <hi>bundle,</hi> it lay but as a <hi>common thing:</hi> It is true, if in the pre<g ref="char:EOLhyphen"/>ſervation of the <hi>true Religion,</hi> and <hi>Liberty of the people,</hi> the Kings life could have been preſerved: he might have lived untill now (for ought I know;) But ſith, his <hi>life</hi> would pro<g ref="char:EOLhyphen"/>cure the <hi>danger of thoſe greater things:</hi> I ſee not, why his <hi>death</hi> may not be called <hi>their preſervation.</hi> Whether the <hi>true Religion</hi> could be preſerved in his preſervation, let Mr. <hi>Prinnes Royall Favourite</hi> informe you; To <hi>prepare;</hi> And let his <hi>Com<g ref="char:EOLhyphen"/>miſſions unto Liſh Papiſts</hi> for their Rebellion inable you to paſſe a <hi>cenſure.</hi> And for the <hi>Priviledges of Parliament,</hi> and <hi>Liberty of the People:</hi> how inconſiſtent their preſervation, and his Perſon, were together, is needleſſe to <hi>ſay,</hi> much more needleſſe to <hi>argue.</hi>
+            </p>
+            <p>Thirdly, neither was the <hi>Covenant</hi> (be it ſuch as you im<g ref="char:EOLhyphen"/>magine) <hi>eternall:</hi> the Contents thereof were not for <hi>an ever<g ref="char:EOLhyphen"/>laſting Almanack,</hi> (or if it were, we might in our old <hi>Latine</hi> call it <hi>Erra Pater</hi>) it was a <hi>Covenant</hi> made in a time of <hi>War,</hi> in Order unto an open, and then potent enemies, reduſing, unto tearmes of a <hi>juſt peace.</hi>
+            </p>
+            <p>And (as farre as I can judge) that part which concerneth the Kings perſon: was a <hi>ſummons</hi> ſent unto a <hi>Town,</hi> or <hi>Caſtle</hi> with Conditions, which (if accepted) have power of a <hi>Cove<g ref="char:EOLhyphen"/>nant.</hi>
+            </p>
+            <p>If the King had either firſt, or laſt, (which he was many times intreated unto) accepted of the <hi>Covenant,</hi> it had been binding.</p>
+            <p>Though one party ſtretch forth his <hi>hand,</hi> yet if the other
+<pb n="6" facs="tcp:117531:5"/>do not <hi>ſtrike,</hi> it is rather a <hi>Covenant intended</hi> then <hi>made;</hi> but the Kings firſt, and continued <hi>refuſall,</hi> are, and were our <hi>re<g ref="char:EOLhyphen"/>leaſe.</hi>
+            </p>
+            <p>Nay, had he at all taken it (and by his taking of it, layd that part of the Covenant that concerned him, as an obligati<g ref="char:EOLhyphen"/>on on us) yet his actions were, and have been, ſo contrary un<g ref="char:EOLhyphen"/>to the <hi>Covenant,</hi> and the <hi>great things,</hi> thereof; As that he did totally <hi>nullifie</hi> and <hi>violate</hi> it; and ſurely the violation of any <hi>Covenant</hi> [ſo farre as it is <hi>conditionall</hi>] by one party, leaveth the other <hi>nnocent,</hi> in caſe he obſerved it not.</p>
+            <p>When my <hi>Wife</hi> turneth <hi>adultreſſe,</hi> my <hi>Covenant</hi> with her is broken, And when my <hi>King</hi> turneth Tyrant, and continu<g ref="char:EOLhyphen"/>eth ſo, my <hi>Covenant</hi> with him alſo is broken.</p>
+            <p>Indeed it is a pretty note of one of the <hi>Rabbins</hi> [upon the Proverbs 29.4.] that the Holy-Ghoſt doth not vouchſafe to call him a King who doth oppoſe his people: But,</p>
+            <p>Fourthly, the end of that clauſe, which concerneth the <hi>ex<g ref="char:EOLhyphen"/>ecuted King:</hi> it declareth that it was to let the world know, we had no <hi>thought, nor intention, to deminiſh His Majeſties juſt power and greatneſſe.</hi>
+            </p>
+            <p>Now clear it is, that it is not the <hi>juſt power,</hi> nor the <hi>juſt greatneſſe,</hi> of any King that ever was, to be free from the <hi>Power</hi> and <hi>Authority</hi> of <hi>Juſtice,</hi> and <hi>Majeſty</hi> it ſelf: ſuch a loſing of a King, <hi>Buckanan</hi> rather accounted, the loſing of a <hi>Monſter,</hi> then the loſing of a man.</p>
+            <p>I may rather promiſe to maintain and preſerve that which is the <hi>juſt power,</hi> and the <hi>juſt greatneſſe</hi> of any Prince, or Perſon, whatſoever in the world, and yet notwithſtanding, I may without breach of promiſe, judge the <hi>unjuſt actions</hi> of the ſaid Perſon, and bring him unto Juſtice too.</p>
+            <p>It hath ever been the unjuſt uſurpation of Tyrannous Princes, by the unlawfull claime of <hi>great Tyranny;</hi> to plead an exemption from <hi>legall Tryall,</hi> for <hi>illegall facts:</hi> ſuch an ex<g ref="char:EOLhyphen"/>emption, were not a <hi>juſt greatneſſe,</hi> but a <hi>great injuſtice.</hi>
+            </p>
+            <p>By this you may therefore gueſſe, that all thoſe <hi>ſcruples,</hi> pretendedly built upon the <hi>Covenant,</hi> have more of <hi>ſhew,</hi> then of <hi>ſtrength:</hi> And ſuch as in this pretend Religion, do indeed affront reaſon.</p>
+            <pb n="7" facs="tcp:117531:5"/>
+            <p>The <hi>Covenant</hi> may, and doth remain <hi>inviolable,</hi> notwithſtanding the Triall of <hi>Charles Stuart:</hi> And humbly confident I am, in the <hi>great day of Accompt,</hi> it will never be charged upon either <hi>Authors,</hi> or <hi>Approvers</hi> of the late <hi>Execution,</hi> that they were <hi>Covenant-Brea<g ref="char:EOLhyphen"/>kers</hi> with the great God. I confeſſe, I dare not entertain ſuch diſho<g ref="char:EOLhyphen"/>nourable thoughts; either of the <hi>Compoſers</hi> or <hi>Impoſers</hi> of that <hi>Co<g ref="char:EOLhyphen"/>venant,</hi> that it was their aime, thereby ſo to inſnare both themſelves and others, as that the receiving thereof ſhould bind them (in all caſes) up to ſuch a proſecution of the Kings perſon, as that the <hi>Law, Religion, Priviledges,</hi> and <hi>Liberties</hi> ſhould all rather ſink and periſh, then he ſhould ſuffer <hi>Juſtice.</hi> What a meer mockery had been of the Almighty? to enter into a Covenant, the maine and ſole end of which, was <hi>Reformation;</hi> And yet not to <hi>Covenant for,</hi> but rather to <hi>Covenant againſt</hi> the <hi>Honourable, juſt,</hi> and <hi>neceſſary tryall</hi> of exorbitant and <hi>Tyrannous Princes,</hi> and Governours (by what Title ſoever.) Certainly the <hi>Reformation of the Arbitrary power</hi> of Princes (which neceſſarily includeth a puniſhment of ſuch as in that way hath <hi>deformed the beauty,</hi> and almoſt <hi>deſtroyed the being of State</hi>) is as great a peece of <hi>Reformation,</hi> as ever the Engliſh (or any) State could, or ſhould ſet upon.</p>
+            <p>The true and righteous end of the <hi>Covenant</hi> (ſo much urged) I never did, nor could ever take to be, other then a <hi>holy, righteous, honourable, and laſting Reformation, and ſetling of all things amongſt us, Eccleſiaticall and Politicall;</hi> and this to be endeavoured after by all (joyntly and ſeverally) in ſo vigorous and reſolved a man<g ref="char:EOLhyphen"/>ner, as that whatſoever <hi>formes</hi> or <hi>perſons</hi> in the one, or other, ſhould be found <hi>prejudiciall</hi> thereunto; or <hi>inconſiſtent</hi> herewith, ſhould be laid aſide: And alſo, that all ſuch as were, or ſhould ap<g ref="char:EOLhyphen"/>peare to be enemies unto this, ſhould be brought unto <hi>condigne puniſhment;</hi> This I ſay, I am perſwaded was the end of the <hi>Covenant:</hi> And while this is purſued, the <hi>Covenant</hi> liveth. It is true (indeed) the <hi>preſervation of the King</hi> when the Covenant was made, did ſeem to conduce in part unto this great end: But ſince it appeareth altogether inconſiſtent therewith: The <hi>Juſtice executed</hi> upon him (in my eye) is no more a breach of <hi>Covenant;</hi> then the throwing of a Logge out of the way, is a deviation from that Journey, the Ar<g ref="char:EOLhyphen"/>rivall unto the end of which, the logge did hinder. Thus may the <hi>Captaine of the Scruplous party</hi> be taken and conquered: And now
+<pb n="8" facs="tcp:117531:6"/>incold thoughts tell me, hath this <hi>Captain</hi> any more then the bare <hi>Covenant?</hi> Is not the ſcruple built upon it, as the <hi>Houſe upon the ſands:</hi> or is it any better then a <hi>ſpecious Sophiſme,</hi> that as an <hi>Argu<g ref="char:EOLhyphen"/>ment</hi> hath only a <hi>name that it lives, but is dead.</hi> Doth not the <hi>Cove<g ref="char:EOLhyphen"/>nant</hi> in the full ſpirit and vigour of it, live, though the King be dead? But I forbear, as remembring; that the <hi>ſcruple taken from the Covenant,</hi> is not ſo much your own as others: therefore I proceed.</p>
+            <p>The next <hi>Pile of Sand</hi> upon which a <hi>ſcruple</hi> is built, is this: what power (ſay you) had that high Court of Juſtice to try the King? Let it be ſuppoſed, the King was a <hi>Criminall Offender</hi> (guilty of death.) And let it be ſuppoſed (ſay you) the <hi>Covenant</hi> had not a binding power upon us, to hinder proceedings againſt him, yet <hi>Quo Jurê, Qua Poteſtaté,</hi> did that Court ſo adjudge him? to put a <hi>Malefactor</hi> to death without <hi>Law,</hi> is as well unjuſt, as to puniſh an <hi>Innocent</hi> perſon, under pretence of Law.</p>
+            <p>As unto this, you know my <hi>Profeſſion</hi> is not <hi>Law;</hi> therefore as unto that <hi>querck,</hi> I ſhall be but briefe (referring you unto the Speeches both of the <hi>Preſident,</hi> and the <hi>Solicitor</hi> of that Court, for ampler ſatisfaction) therefore onely thus.</p>
+            <p>Firſt, If <hi>Charles Stuart</hi> held his <hi>Crown by Conqueſt of Armes</hi> (as by his Plea of ſucceſſion from the <hi>Conqueror</hi> he did pretend; and as ſome of his friends (though the peoples foes) have urged.) Then, without doubt, by the ſame <hi>Right</hi> in which (upon this plea he ur<g ref="char:EOLhyphen"/>ged) he <hi>ruled</hi> by the ſame he <hi>ſuffered:</hi> Himſelf was <hi>conquered</hi> and a <hi>Priſoner of Warre.</hi> Its true, that he ſurrendred himſelf (a faire way of giving up unto mercy, when he could hold out no longer) and that unto the <hi>Scots</hi> Army (but under Engliſh pay) and ſo a Priſo<g ref="char:EOLhyphen"/>ner unto <hi>Englands</hi> Sword.) An Army of <hi>Switzers,</hi> ſerving the King of <hi>France</hi> for his money, may as well pretend, that ſuch Priſoners, or Towns as they take, are properly their own: as the <hi>Scots</hi> (under Engliſh pay) may pretend that the King was theirs: So, that ſtill I ſay, he was a <hi>Priſoner</hi> unto <hi>Englands State,</hi> and the caſe is no whit altered; but the ſame: Therefore if he held by <hi>Conqueſt;</hi> then as he held, ſo he was, or might be tryed; But,</p>
+            <p>Secondly, It was, and is the <hi>power of a Parliament,</hi> to erect ſuch a <hi>Court,</hi> as in this caſe they did. A <hi>lawfull Court by a lawfull power authorized, and by law proceeding, may try any Prince in the world:</hi>
+               <pb n="9" facs="tcp:117531:6"/>Therefore the <hi>power</hi> by which, and the <hi>way</hi> in which, the <hi>King</hi> was tryed (being ſo juſt) why ſhould any preſume to queſti<g ref="char:EOLhyphen"/>on it?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label>
+               <hi>Objection:</hi> But (ſay you) how could that <hi>Houſe</hi> be called a <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> when the <hi>Lords</hi> joyned not with the <hi>Commons?</hi> and when moſt of the <hi>Commons</hi> were kept out?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I <hi>Anſwer</hi> I thank Mr. <hi>Prione</hi> for that light, which in particular I have gaired from his <hi>Soveraign power of Parliaments:</hi> whereby I underſtand well enough, that the <hi>Commons</hi> may act without the <hi>Lords;</hi> &amp; alſo that the <hi>Houſe of Commons,</hi> though under <hi>fifty,</hi> may act without the reſt (ſuppoſing them to be abſent.)<label type="milestone">
+                  <seg type="milestoneunit">Obiect. </seg>
+               </label> And whereas you me pleaſed to ſay, they were under <hi>reſtraint;</hi> and kept out, who otherwiſe would have been in. <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> To that I <hi>reply</hi> onely (as in my laſt) that that <hi>reſtraint was lawfull.</hi> The late <hi>Parliament</hi> in <hi>Scotland,</hi> who gave Authority to <hi>Hambleton</hi> to invade <hi>England,</hi> was not in part, but in whole forc'd from <hi>Edenburgh:</hi> and the preſent <hi>Parliament</hi> (that now ſitteth there) ſitteth by the <hi>power of the Sword;</hi> And yet I am confident, you are ſo good a friend to the <hi>Scotchman,</hi> as that you will not think the driving away of the former, or the ſet<g ref="char:EOLhyphen"/>ling of this Parliament there, to be unlawfull. I told you, and I ſtill tell you, <hi>neceſſity is the Law Royall.</hi> It diſpenceth with all Lawes,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> The <hi>Rabb<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s</hi> have a ſaying, <hi>the mercifull God doth not hold the neceſ<g ref="char:EOLhyphen"/>ſtated guilty</hi> there was a <hi>neceſſity</hi> for what the Army did; as to the taking out of thoſe rotten Members; and that <hi>neceſſity</hi> was their <hi>Law.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiect, </seg>
+               </label>
+               <hi>Obiection.</hi> But they which ſit are not free.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label>
+               <hi>Anſwer.</hi> Why ſhould any preſume to ſay ſo, when they do not; they are of <hi>yeres ſufficient</hi> (as Chriſt ſaid in another caſe) <hi>Let them ſpeak for themſelves.</hi> Nay they have, and they do ſpeak once and again they are <hi>free:</hi> Did they not before, and doe they not now ſit <hi>free?</hi> And unto this day (ſince more are come in;) Doe they either diſclaim the Authority of the <hi>High Court of Juſtice;</hi> or ſo much as hint, that they were under a force? <hi>Altum Silentium:</hi> here is not a word of this: and therefore I paſſe from it, let this ſuffice to ſatisfie, that peece of the <hi>ſcruple,</hi> that queſtioneth the power whereby that <hi>honourable peece of Juſtice</hi> was acted.</p>
+            <p>As to the next of <hi>Preſident;</hi> it is ſo <hi>poore</hi> a ſcruple, that a <hi>Puffe</hi> bloweth, it away. <hi>Preſidents are good inc<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rragements, but bad Rules:</hi>
+               <pb n="10" facs="tcp:117531:7"/>It is lawfull to act in buſineſſes of this nature, (as in others) with<g ref="char:EOLhyphen"/>out a <hi>Preſident.</hi> We have been beholding to former Ages, for Preſi<g ref="char:EOLhyphen"/>dents in ſo<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> things (neither have they left us without foot ſteps in this.) And why may it not be our glory, to give a brighter and clearer Preſident unto future Ages in this; as it hath been theirs to give us in others; But,</p>
+            <p>
+               <hi>Firſt</hi> of all: though <hi>Preſidents</hi> are not recorded, ſhall we there<g ref="char:EOLhyphen"/>fore conclude, the thing was not; many things have been which we know not off, <hi>A non dici, ad non eſſe,</hi> is a kind of Argument, huſht at by boyes; It is too weake in any thing to ſay, ſuch a thing was not ſpoken, therefore it was acted.</p>
+            <p>
+               <hi>Secondly:</hi> Hiſtories both of Forraigne, and of our own Nation, abound much with <hi>Preſidents</hi> of this nature; The <hi>Jewes</hi> (who had at firſt the beſt <hi>Common wealth,</hi> and afterwards the beſt <hi>King<g ref="char:EOLhyphen"/>dome</hi> that ever was) are preſidentall unto us in this buſineſſe; in trying thoſe who either were Superiours (as the <hi>Judges</hi> in the time of their <hi>Common wealth</hi>) (or their <hi>Kings</hi> in the times of their <hi>King<g ref="char:EOLhyphen"/>doms.</hi>) <hi>Shickard:</hi>
+               <note place="margin">Helach, Melach, cap. <hi>3,</hi> Sect. <hi>4.</hi>
+               </note> (a great Reader and a good Linguiſt) telleth us, <hi>Ordinario judicio Reges, ob tranſgreſſionem legis, petuiſſe convenicio, &amp; ad verbera damnari.</hi> Hit meaning is; that it was ordinary a<g ref="char:EOLhyphen"/>mongſt the <hi>Jewes,</hi> not only to call unto the <hi>Barre,</hi> but (as we ſay) to bring unto the <hi>Whipping poſt</hi> their King. Indeed, this feemed un<g ref="char:EOLhyphen"/>to him a <hi>Paradox</hi> at firſt,<note place="margin">cap. <hi>19.</hi>
+               </note> but afterwards he found it confirmed, <hi>Conſenſutotius antiquitatis Hebrae</hi> (i. e.) by the conſent of the whole Hebrew antiquity:<note place="margin">Halach: Keleham<g ref="char:EOLhyphen"/>mikd. cap. <hi>5.</hi>
+               </note> and upon it he doth obſerve alſo (out of their writings) that Kings were, and might be brought to whip<g ref="char:EOLhyphen"/>ping; As out of one of their books he doth obſerve. That in caſe of <hi>multiplying of Wives, Horſes, Gold and Silver,</hi> if he did exceed in thoſe he was to be <hi>whipped;</hi>
+               <note place="margin">His word is. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Masmonid: in Halach. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> cor. <hi>3</hi>
+               </note> and ſo likewiſe he obſerveth out of the <hi>Sanhedrin</hi> the ſame things: he doth obſerve alſo concerning the <hi>High Prieſt,</hi> that he was queſtioned (though not by all, yet) by th great <hi>Synedrion:</hi> And <hi>Caneus</hi> alſo obſerveth out of the <hi>Tal<g ref="char:EOLhyphen"/>mudicall</hi> writers; that if the <hi>High Prieſts</hi> were refractory, and con<g ref="char:EOLhyphen"/>tumatious, refuſing to approve of, and to follow that which they did joyntly ageee unto, he was adjudged to dye. And by the way I would aske this <hi>queſtion, what exemption</hi> (by vertue of any Scrip<g ref="char:EOLhyphen"/>tues) <hi>there can be ſhewed, that the King had from the Law more then the High Prieſt. Joſephus</hi> tells us, that when <hi>Antipater</hi> had divided
+<pb n="11" facs="tcp:117531:7"/>his Kingdom between his two Sons,<note place="margin">See Schikard de jure Regio apud Hebra<g ref="char:EOLhyphen"/>os, Theor: <hi>14</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: <hi>Ioſeph. lib. 14. cap. 17. Hutius Iud.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> In Talmud codex San<g ref="char:EOLhyphen"/>hedrin: cap: <hi>2:</hi> Sect. <hi>2.</hi> Si Judaerum Reges a ci<g ref="char:EOLhyphen"/>vibus puniti non ſunt, hoc non magno<g ref="char:EOLhyphen"/>pere ad no<g ref="char:EOLhyphen"/>ſtrum juſti<g ref="char:EOLhyphen"/>tutu<g ref="char:cmbAbbrStroke">̄</g>. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which word Cock ob<g ref="char:EOLhyphen"/>ſerves out of Entropius to ſignifie to command.</note> and when one of them (<hi>Herod</hi> by name) was obſerved to mannage all buſineſſe in his own name, and particularly to put one <hi>Hezekiah</hi> (though a <hi>Theefe</hi>) unto death (which was contrary unto the Jewiſh law, which or<g ref="char:EOLhyphen"/>dained that in that caſe of death, the King ſhould not proceed of their own head unto death) he was hereupon ſuſpected of <hi>Tyran<g ref="char:EOLhyphen"/>ny,</hi> and accuſed hereof, and brought before the Councel; where his inſolent carriage was ſuch, as that it ſtruck a feare into all, except one <hi>Shamea,</hi> who took him down for it, and urged Councel to con<g ref="char:EOLhyphen"/>ſider it, leaſt (ſaith he) if we permitting his inſolency, and he ſhould be condemned by us (<hi>according unto the Law,</hi> obſerve he thought, that <hi>according unto the Law,</hi> they might condemn him) he by the violation of righteouſneſſe ſhould eſcape, and ſlay us. Now it is obſervable, that this was after the <hi>Jewiſh</hi> affaires begun to de<g ref="char:EOLhyphen"/>cline; and they were (in a manner) under the <hi>Roman power,</hi> even then the <hi>Synedrian Senators,</hi> durſt then (as <hi>Joſephus</hi> confeſt <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> — (i. e.) <hi>according unto the Law,</hi>) deale with their <hi>Princes</hi> indeed: there is a paſſage in <hi>Talmud</hi> (at which I ſtumbled) it is this: the <hi>King neither judgeth, nor is judged;</hi> when I read this, I began to ſcruple, as concerning their practice: (and yet I remem<g ref="char:EOLhyphen"/>bred well enough what <hi>Buckanan</hi> ſaith, that <hi>if the Kings of the Jewes were not puniſhed by them, yet that did not make much, either for, or againſt our</hi> purpoſe) but looking into the <hi>Gemara Sanhedrin</hi> Chapter 2. that is intituled <hi>Cohen Gedol:</hi> I find an explication of that paſſage in the <hi>Talmud:</hi> And there it is ſaid by the <hi>Rabby Jo<g ref="char:EOLhyphen"/>ſeph,</hi> that that <hi>Tradition of the Kings,</hi> being <hi>neither a Judge, nor ad<g ref="char:EOLhyphen"/>judged,</hi> is underſtood of none, but of the Kings of <hi>Izrael,</hi> for (ſaith he) <hi>the Kings of the Houſe of David, did both judge, and were adjudg<g ref="char:EOLhyphen"/>ed;</hi> And making there a queſtion, why it was not ſo amongſt the <hi>Kings of Izrael:</hi> he giveth this reaſon, <hi>becauſe of that which happened in the caſe of a Servant of King Janneas.</hi> Now the tradition of that buſineſſe is there recorded thus; <hi>King Janneas</hi> his Servant had com<g ref="char:EOLhyphen"/>mitted <hi>murther;</hi> upon which one advertized the <hi>Elders</hi> thereof, and deſired that he might be queſtioned for it; they thereupon <hi>Com<g ref="char:EOLhyphen"/>mand the King</hi> to give up his Servant to be tryed: He doth ſend him upon that, to the <hi>Synedrian.</hi> But he was <hi>Commanded</hi> to come him<g ref="char:EOLhyphen"/>ſelf, to give teſtimony in his Servants Caſe: hereupon he came, and <hi>Simeon</hi> ſaid unto him, <hi>King Janneas ſtand thou up, neither think thou
+<pb n="12" facs="tcp:117531:8"/>onely, that thou ſtandeſt up before us; but before him who made the World.</hi>
+            </p>
+            <p>Vpon this the King anſwered, I ſtand not up at your <hi>Command,</hi> but upon the <hi>Command</hi> of your <hi>Colleges</hi> &amp;c, upon which <hi>Symion</hi> (look<g ref="char:EOLhyphen"/>ing about him, and ſeeing them all looking upon the ground) what (ſaid he unto them) <hi>are you now thinking? there is who will be aveng<g ref="char:EOLhyphen"/>ed of you?</hi>
+               <note place="margin">Peruſh tram<g ref="char:EOLhyphen"/>miſchanio tl. pag. <hi>115.</hi>
+               </note> and immediatly they were ſtruck unto the ground dead; Whereupon (ſaith the <hi>Gemera</hi>) paſſed this Decree, that <hi>the King was neither judged nor did judge.</hi> &amp;c. Another alſo of the <hi>Iewiſh</hi> writings, witneſſe that that <hi>Tradition,</hi> was only concerning the <hi>Kings of Iſrael, and that the Kings of Davids houſe, they did both judge, and were judged.</hi>
+               <note place="margin">Halach. Melach cap. <hi>9.</hi> Sect. <hi>3.</hi>
+               </note> And another writing of the <hi>Jewes,</hi> ſaith that, <hi>the Kings who came of Davids loines, were both judged, and did judge,</hi> and that it was lawfull to deale with them; But the wiſe men did make that Tradition concerning the <hi>Samaritan Kings,</hi> becauſe their hearts were proud. &amp;c.</p>
+            <p>Out of this <hi>Talmudicall Tradition,</hi> I obſerve thus much,</p>
+            <p>Firſt, That <hi>the Kings of Iudah</hi> (for they were the Kings of the houſe of <hi>David</hi>) <hi>were queſtionable:</hi> and therefore they were queſti<g ref="char:EOLhyphen"/>oned upon occaſion.</p>
+            <p>Secondly, <hi>the Kings of Iſrael were ſo too, de Jure,</hi> (and ſometimes) <hi>de facto:</hi> my meaning is, they alwaies lawfully might (though ſome<g ref="char:EOLhyphen"/>times actually, they were not queſtioned) that was after the revolt of the <hi>ten Tribes;</hi> when they had not only caſt off the <hi>power, and right of the people,</hi> but alſo the <hi>Law</hi> and <hi>Yoake of God</hi> himſelf.</p>
+            <p>Thirdly, that if the <hi>Kings of</hi> Judah <hi>actually were, and the Kings of Iſrael rightfully ought to be brought unto Tryall, then the calling of Kings to accompt, and proceedings againſt, according unto deſert; Js not a buſineſſe of ſo new, and ſtrange a nature; as ſonie would make the world beleeve to be.</hi> And truly, till I find a Scripture forbiding it (I ſhall not dare to ſenſure the queſtioning of Kings, as ſinfull; for as much as ſinning is the tranſgreſſion of the Law (and where no Law is, there no tranſgreſſion can be.) <hi>Bartolus</hi> ſpake no more, (nor indeed leſſe) then <hi>right reaſon, and an impartiall judgment</hi> will ſug<g ref="char:EOLhyphen"/>geſt when he ſaid, that, <hi>a King might commit treaſon, and be a tray<g ref="char:EOLhyphen"/>tor, and Rebell unto his Country and ſo be may be judged and delbroa<g ref="char:EOLhyphen"/>ned, and otherwiſe puniſhed, by that Lord againſt whom he hath offended, who is the peoples and thoſe that repreſent them.</hi>
+            </p>
+            <pb n="13" facs="tcp:117531:8"/>
+            <p>I muſt be ingenious, and confeſſe, that <hi>Shickard</hi> ſeems to queſti<g ref="char:EOLhyphen"/>on, whether the Jewes ever did put their Princes to death? He ſaith, they did not with every kind of puniſhment, nor (as he thinketh) with Capitall puniſhment, punniſh any of their Prin<g ref="char:EOLhyphen"/>ces.</p>
+            <p>But notwithſtanding this opinion of <hi>Shickard,</hi> I am no way mo<g ref="char:EOLhyphen"/>ved to think, but that both they might, and did upon occaſion put their Kings to death. <hi>Surely, he that may be whippped for a leſſer, may be hanged for a greater fault;</hi> And if ſo be, the <hi>Iewes</hi> might and did (as <hi>Shickard</hi> himſelf acknowledgeth) <hi>bring their Kings un<g ref="char:EOLhyphen"/>to whipping,</hi> why might they not upon the ſame reaſon, bring them unto a greater puniſhment, when deſerved?</p>
+            <p>And to put it out of doubt, that inſtance which I gave in my laſt, (out of the 2 <hi>Chro.</hi> 25.27.) maketh it clear, that they did put <hi>Amaziah King of Judah unto death.</hi>
+            </p>
+            <p>Obj. <hi>But you will ſay, that place is not clear: becauſe in ſome tranſla<g ref="char:EOLhyphen"/>tions, it is rendered,</hi> they committed. Treaſon, <hi>in others</hi> they made conſpiracy; <hi>therefore you will ſay, can either of thoſe be preſen<g ref="char:EOLhyphen"/>table?</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> To this I reply thus much; how ever the Word is tranſlated, we muſt eye its meaning, not tranſlation; It is not our happyneſſe, that all the words in the Bible are truly tranſlated:<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> From <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Ligare</note> or that where they are, they are rightly underſtood; The Word therefore in that place which is tranſlated (<hi>they made a conſpiracy</hi>) * properly ſigni<g ref="char:EOLhyphen"/>fieth, to <hi>bind, and to agree together, as under a bond.</hi> Now all be it, that it is ſomtimes uſed to be taken in <hi>a bad ſenſe,</hi> it is not therefore to be underſtood, where ever the Word is uſed, that it is taken in <hi>a bad ſence;</hi> For the ſame word is uſed in the 2 <hi>Kings</hi> 9 14. con<g ref="char:EOLhyphen"/>cerning <hi>Jehu,</hi> it is ſaid, <hi>he conſpired againſt Joram:</hi> Now certainly what he did againſt <hi>Joram,</hi> was not <hi>unlawfull,</hi> neither is the word ſo to be underſtood; for we know he was <hi>annoiuted by God</hi> unto that worke, and it is probable in that he had, the concurrence of the ſervants of God, of whom it is mentioned verſe the 11. Now there be three Reaſons that make me ſomething confident that this act of putting King <hi>Amaziah</hi> unto death, was lawfull and im<g ref="char:EOLhyphen"/>mitable.</p>
+            <p>Firſt, becauſe the <hi>Holy-ghoſt</hi> records it, without mentioning any thing that might blemiſh it; It is not noted there as in other con<g ref="char:EOLhyphen"/>ſpiracies,
+<pb n="14" facs="tcp:117531:9"/>that it was done by any private man, or by his ſervants; but rather it is recorded, as the act of all the People; for it is ſaid, <hi>they conſpired againſt him in Jeruſulem.</hi>
+            </p>
+            <p>Secondly,<note place="margin">2 <hi>Kings</hi> 15.10. 2 <hi>Kings</hi> 21.29.</note> becauſe the <hi>Holy-Ghoſt,</hi> doth not record any publicke <hi>Cognizance,</hi> that was taken for the thing as a crime, nor any puniſhment inflicted upon any for it, as we find in other caſes of conſpiracy.</p>
+            <p>Thirdly, the <hi>Holy-Ghoſt</hi> ſheweth it was done publickly, ſo as he knew of it, whereupon he fled for it, they ſend after him, and when he was ſlaine he was openly <hi>brought back upon horſes,</hi> which doth ſhew without doubt, that had it not been done by authority, and allowed of, it would never have been owned ſo openly.</p>
+            <p>2 Obj. <hi>But you will ſay, how cometh it to paſſe, that</hi> Shickard (<hi>who profeſſedly ſeemeth, to enouire after</hi> the Jewiſh peoples power <hi>over their</hi> Kings) <hi>had not obſerved any ſuch things amongſt the Rabbins.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> For that, I conceive the true reaſon why he did not find any thing among the writings of the <hi>Rabbins</hi> (now extant) was this, becauſe their works are not ancient enough, to give inſtance of this practiſe; for beſides <hi>pecuniary mulckes and whippings,</hi> the <hi>Jewes</hi> had not for divers years,<note place="margin">Mainord. in Hilch. San<g ref="char:EOLhyphen"/>hedrin cap. <hi>11.</hi>
+               </note> any other puuiſhment among them, for any crime whatſoever. It is obſerved of the <hi>Criminalia Judicia,</hi> that they ceaſed among the <hi>Jewes,</hi> ſome yeares before the deſtruction of the ſecond Temple; and ſo much is obſerved out of the <hi>Jeruſa<g ref="char:EOLhyphen"/>lem and Babylouiſh Talmud.</hi> Hence it was, that the <hi>Jewes</hi> did not put any to death, for any fact whatſoever.</p>
+            <p>An inſtance of which, we find in the caſe of one that defiled him<g ref="char:EOLhyphen"/>ſelf with a Beaſt * (which by the very known Law was death,<note place="margin">In Berachos. fol. <hi>58.</hi>
+               </note> yet) he was only <hi>whipped</hi> for it, and the reaſon that is given for it is this: <hi>becauſe from the time that they were forced to go from their own land, they did not put any man to death;</hi> that is, they had no power, (or at leaſt they thought ſo) to put any unto death, for any crime what<g ref="char:EOLhyphen"/>ſoever. Hence <hi>Buxſtorfe</hi> * conceiveth,<note place="margin">In Lexicon Talmud. p. <hi>514.</hi>
+               </note> was that ſpeech of theirs (<hi>John</hi> the 18.31.) <hi>it is not lawfull for us to put any man to death;</hi> not but that their Law did allow of putting of men to death; (as they themſelves acknowledged, <hi>John</hi> the 19. and 7.) But it ſeemeth, <hi>that power was taken from them,</hi> and they could not execute it; So that you do ſee, there might be a great reaſon why <hi>Shickard</hi> could not light upon a paſſage, that might ſhew him, that the <hi>Jewes</hi> did
+<pb n="15" facs="tcp:117531:9"/>put any of their <hi>Kings</hi> to death, becauſe that the <hi>Jewes</hi> for many yeares (even for ſome yeares before Chriſts death) had not that <hi>Power,</hi> in any caſe whatſoever.</p>
+            <p>Thus far (and a little further then I thought) have I waded in this buſineſſe of <hi>Preſident,</hi> and to wind up all: you ſee how your <hi>ſcruples</hi> drawn, both from the <hi>Covenant,</hi> from pretended <hi>want of Authority</hi> in the Councell, and alſo of <hi>want of Preſident</hi> may be re<g ref="char:EOLhyphen"/>ſolved; What you adde beſides theſe, are inconſiderable, that I ſhall paſſe them by; only, a word unto your fear about the conſe<g ref="char:EOLhyphen"/>quence of this buſines.</p>
+            <p>
+               <hi>Ob. You will ſay,</hi> Prudence <hi>in</hi> private perſons <hi>doth (much more)</hi> Poli<g ref="char:EOLhyphen"/>cy <hi>in</hi> publicke States <hi>ſhould fore-ſee the worſt, and ſo order things, as that the ſucceſſe, or event of them, may be weighed before they be done; and you conceive, had the event of this work been well weighed, it had never been done?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Unto this I return ſhortly thus,</p>
+            <p>Firſt, ſuppoſe the event as bad as ſome <hi>wretches</hi> brag, and ſome <hi>weak ones</hi> fear; ſuppoſe upon the conjunction of <hi>Malevolent asſpects,</hi> of <hi>deſperate foes,</hi> and <hi>Apoſtate friends,</hi> another Warre ſhould ariſe; yet here will be our comfort and our advantage, that our enemies are ſuch as oppoſe not only us, but <hi>Juſtice</hi> it ſelf, and ſo <hi>Juſtice</hi> will be ingaged to preſerve, not ſo much our perſons, as his own actions.</p>
+            <p>Secondly, Why ſhould we ſo much diſ-truſt that ſweet, and powerfull <hi>Providence,</hi> that all along (eſpecially of late) hath ap<g ref="char:EOLhyphen"/>peared ſo clearly for us? why ſhall we not hope that the ſame God, that hath given us ſo many <hi>ſignall victories</hi> (in great battels) over that <hi>man of blouud</hi> (when a live, and in the field) and who hath alſo helped us, to ſuppreſſe ſo many &amp; ſuch <hi>unparallel'd inſurrections</hi> of his mutinous friends (of late) who (I ſay) ſhould wee not hope, the ſame <hi>providence</hi> will be as <hi>propitious</hi> unto us, in an other warre, and in other tumults as formerly.</p>
+            <p>
+               <hi>Thirdly,</hi> Confident I am, that if <hi>Ireland</hi> and <hi>Scotland</hi> joyne to<g ref="char:EOLhyphen"/>gether; and if (which God prevent) all the <hi>Murmuring and diſ<g ref="char:EOLhyphen"/>affected Perſons</hi> in <hi>England</hi> ſhould Contribute to Invite, and Aſſiſt them in an Invation: yet notwithſtanding all this <hi>England ſhould not dye; but live to ſhew forth all the works of God:</hi> who hath deli<g ref="char:EOLhyphen"/>vered us, who doth, and who yet will deliver us; What Nation ever periſhed in the Worke of righteouſneſſe, and in the purſuing
+<pb n="16" facs="tcp:117531:10"/>thereof. <hi>Suffer</hi> for a little, and <hi>ſhake</hi> a while (peradventure) we may; but ſurely <hi>thoſe ſufferings will be turned unto joy,</hi> and thoſe <hi>ſhakings unto ſetling;</hi> Yet (my friend) let me tell you, <hi>England</hi> was never in better poſture to ſecure it ſelf, and <hi>Scotland</hi> never worſe, to invade us: but I am above the arme of fleſh, I have learnt to ceaſe from men; tis the <hi>Lord alone</hi> that hath been, and will be <hi>exalted</hi> amongſt us: <hi>though we fall we ſhall riſe:</hi> 'tis the Priviledge of juſt and righteous people, that no <hi>weapon formed a<g ref="char:EOLhyphen"/>gainſt them ſhall preſper.</hi>
+            </p>
+            <p>As touching the Government intended by the Houſe of <hi>Com<g ref="char:EOLhyphen"/>mons</hi> in time of <hi>Parliament,</hi> and <hi>Committee of Eſtate</hi> in the Inter<g ref="char:EOLhyphen"/>vale: I doubt not to affirme, but that time will diſcover it, as good a way for the <hi>Publique,</hi> as poſſibly the wiſdome of man can deviſe. It is true, if men be mad, it will be chargeable to ſettle it, but if ſetled, the benefit of it will quit the Coſt: Either I have been very unhappy in the Authors that I have read, or elſe upon my little reading; I can rationally conclude, that the <hi>beſt of Go<g ref="char:EOLhyphen"/>vernments is that which</hi> Ariſtotle <hi>calleth Ariſtocracy</hi> (eſpecially if it be in part mixed with <hi>Democracy</hi>) Let there be ſo much of the <hi>Democratick</hi> way, as to acknowledge all <hi>Power fundamentally in the People;</hi> and all <hi>Perſons intruſted with it as their Truſtees:</hi> and accordingly let it ſurely be provided, that ſuch <hi>Truſtees</hi> be queſtio<g ref="char:EOLhyphen"/>ned for betraying or ill managing their truſt, and in Order here<g ref="char:EOLhyphen"/>unto let a <hi>Councell of State mannage</hi> all affaires in the Intervall of <hi>Parliament;</hi> and yet, let thoſe alſo be queſtionable for ill manage<g ref="char:EOLhyphen"/>ment in time of <hi>Parliament;</hi> I ſay, let this be once ſetled, and the Lawes of this <hi>Nation</hi> reduced: I ſhall have reaſon to beleeve, that <hi>England</hi> will quickly be a happier <hi>Common-wealth</hi> then it hath been a <hi>Kingdome.</hi>
+            </p>
+            <p>There be three things, which for foureſcore Yeares I looked upon, as indubitable <hi>Aphoriſmes</hi> of <hi>State,</hi> which aſcented unto, and purſued, would ſoone end our Murmurings, and render us a Happy People.</p>
+            <p>
+               <hi>Firſt,</hi> That <hi>The Supreame Power of all Law whatſoever, is in the whole body of the People defuſed</hi> (as the ſoule through the whole body aturall) <hi>not confined unto any particular:</hi> It was therefore both well and rationally reſolved by Mr. <hi>Mead,</hi> That the <hi>Scepter</hi> did no waies depart from <hi>Judah,</hi> nor the <hi>Law-giver</hi> from between
+<pb n="17" facs="tcp:117531:10"/>his feet (though without a King of <hi>Davids</hi> race, when the <hi>Shi<g ref="char:EOLhyphen"/>loh</hi> came:) therefore it was in the People.</p>
+            <p>It is a <hi>Conceit</hi> not fit to be quartered in the braine of man: that Kings make <hi>Scepters:</hi> The truth is, that <hi>Scepters</hi> doe declare <hi>Kings;</hi> yet ſo as that <hi>Scepters</hi> may be where <hi>Kings</hi> are not: <hi>Scep<g ref="char:EOLhyphen"/>ters</hi> may be, and Power of all Lawes, and Authority, They are as the Spirit of life, running through the whole body of a Nation; which albeit it put forth it ſelfe in ſome Members, more eminent<g ref="char:EOLhyphen"/>ly then another; yet it is not becauſe it is in thoſe Members ſo <hi>O<g ref="char:EOLhyphen"/>riginally</hi> but onely becauſe it is uſed by them <hi>Organically; Orga<g ref="char:EOLhyphen"/>nically</hi> Kings and Princes are but <hi>Perſons,</hi> they are not <hi>Powers.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> all the <hi>Power of any State</hi> in Generall and particular is therefore <hi>derived from the people of that State,</hi> and ſo power or <hi>Majeſty is properly there.</hi> In truth <hi>Majeſty</hi> is in the People, as in the <hi>King,</hi> but it is only in the King, as in their <hi>Herald:</hi> It is recorded, that at <hi>Jeruſalem</hi> in the mideſt of the <hi>Synedrion,</hi>
+               <note place="margin">Cuneus in Repub. Jud. lib. <hi>1.</hi> cap. <hi>9.</hi>
+               </note> there was hung a <hi>Scepter,</hi> which (ſaith my Author) was <hi>an Enſigne of that Majeſtie which Marcus Tullius obſerveth to be in the people:</hi> And it is there<g ref="char:EOLhyphen"/>fore well obſerved by the ſame Author, that <hi>not the Kings, or the Princes, but the Conſuls, and the Senates, the Romane Common-Wealth it ſelf did act then when this Law was given unto their confe<g ref="char:EOLhyphen"/>derate, that they ſhould preſerve without fraud, the Majeſtie of the Ro<g ref="char:EOLhyphen"/>mane People.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> That <hi>Power therefore that is in any particular perſon is in them, but as in Feofees in truſt for the people:</hi> And when they abuſe it, as their perſons may be puniſhed for that abuſe,<note place="margin">Cri<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>en laeſae Majeſtatis quod adver<g ref="char:EOLhyphen"/>ſus populuns Romanum: &amp; lib. <hi>1.</hi> ſect. <hi>1.</hi> ad legem <hi>Jul.</hi> Majeſt.</note> ſo the power it ſelf may be recalled. <hi>
+                  <g ref="char:V">Ʋ</g>lpian</hi> doth therefore well note that it is a <hi>Crime againſt Maieſty,</hi> which is againſt the <hi>people of Rome;</hi> or againſt it's ſecurity.</p>
+            <p>
+               <hi>Seneca,</hi> (my friend) ſaid well, when he ſaid, <hi>that Common-wealths were not made for Kings, but Kings for Common-wealths:</hi> who is there ſo little read in <hi>Hyſtory,</hi> that knoweth not that <hi>people</hi> were before <hi>Princes:</hi> the firſt Government in the world was by <hi>Families,</hi> then in time it grew to <hi>Cities,</hi> and <hi>Townes,</hi> and afterwards it extended it ſelfe further; And who is there ſo <hi>Irrationall</hi> (that I ſay not Irreli<g ref="char:EOLhyphen"/>gious) as to immagine, that ever the <hi>great, wiſe, Juſt,</hi> and <hi>gracious God ſhould make the world, and the Nations thereof, for the ſake of a few Princes, and having made all, ſhould vaſſalize all unto the wills of them, to live as they liſt without controule:</hi> Surely did not <hi>ſelfe-love,
+<pb n="18" facs="tcp:117531:11"/>Private Jnterreſt</hi> and the reſt of that unworthy Gang, blind our un<g ref="char:EOLhyphen"/>derſtandings, we ſhould quickly ſee, and underſtand; that were Prin<g ref="char:EOLhyphen"/>ces as uſefull in their places, as poſſible they might be; yet if once they turned to be uſeleſſe, and hurtfull, they may be laid aſide, I could never yet thinke a king, more (if ſo much) unto a <hi>body Politique</hi> then a right <hi>Eye</hi> or <hi>hand</hi> unto the <hi>body naturall;</hi> yet, you doe know who ſaid, if <hi>a right eye, or a right hand offend thee, pluck it out and caſt it off.</hi> I am apt to thinke you will deale with this as you did with the former, and expoſe it unto publique view: I ſhall therefore ere I cloſe it up, offer a few ſeaſonable words to all ſorts amongſt us.</p>
+            <p>
+               <hi>Firſt</hi> [as meet is] I ſhall begin with the <hi>Parliament;</hi> were I neere them, and had the advantage of their eare, I ſhould <hi>humbly whiſper</hi> thus much. <hi>Honoured Worthies!</hi> you have begun well, go on; your <hi>actings</hi> are <hi>good,</hi> let not your <hi>Actings</hi> be <hi>bad:</hi> Take heed of <hi>ſelfe Intereſt, [the fatall Rock of all Statiſts]</hi> if you <hi>drive</hi> that, it will <hi>deſtroy</hi> you: you are but <hi>men,</hi> (and ſo may erre) you ſhould be <hi>Chriſtians</hi> (and ſo wiſe to prevent what may be) God hath already diſcovered many rotten Members amongſt you, and be ſure, if any of you be ſuch, he will diſcover you alſo; The <hi>divine Wiſdome</hi> knoweth how to uſe <hi>bad men</hi> unto <hi>good purpoſes:</hi> and not only to caſt them off, but to puniſh them when the work is done. Remember this: It is a <hi>ſhame</hi> in all, and it will be a <hi>ſinne</hi> in you, if you doe <hi>gaine while the Nation loſeth:</hi> Take heed of driving at the making of your ſelves a <hi>perpetuall Parliament</hi> for your own profit, Haſten to confute the ſlander that is frequently caſt upon you; (by doing what in you lyeth) though warily, and wiſely, to put a pe<g ref="char:EOLhyphen"/>riod unto this <hi>Seſſion;</hi> And remember to do ſuch things, as that your families may bleſs you, &amp; that the next <hi>Parliament</hi> may not queſtion you. If I thought that the words of a worme might have power, I would not beſeech, but <hi>Conjure</hi> you, by the great name of Iuſtice and Equity, that you ſo <hi>cleanſe and open the Fountaine of Iuſtice</hi> (I meane the Law) <hi>that ſo righteouſneſſe that may run downe amongſt us as a mighty ſtreame:</hi> deliver this Nation from its <hi>Normand bondage of ſlavery:</hi> let us have our <hi>Lawes</hi> in our owne <hi>language:</hi> your fathers did well, when they gave us our <hi>Divine ſervice</hi> in our Mother tongue; thereby they delivered us from worſhiping of an unknown <hi>God.</hi> Doe you give us our <hi>Law</hi> in our own <hi>tongue</hi> alſo, that we may know when we offend, and how to Obey. <hi>Blinde obedience</hi> is as well dangerous in <hi>Civils</hi> as <hi>Spiritualls,</hi>
+               <note place="margin">Cynthius au<g ref="char:EOLhyphen"/>rem vel et.</note> but <hi>Cynthius pulleth me by the Ear:</hi>
+               <pb n="19" facs="tcp:117531:11"/>therefore I leave yours only (becauſe of my Profeſſion) let mee whiſper out this alſo, <hi>eye the Lord Ieſus in all your actings, advance his Kingdome</hi> (as much as in you lyeth) and beleeve it, the advance<g ref="char:EOLhyphen"/>ment of his <hi>Kingdome,</hi> will be the beſt ſecurity unto our <hi>Common-wealth,</hi> Remember the <hi>Scepter of his Kingdom,</hi> (I meane the <hi>Word</hi>) take heed while you doe a good worke of eaſing of the People of <hi>Tythes,</hi> you do not ſomething that ſhall deprive them of the know<g ref="char:EOLhyphen"/>ledge of the <hi>Truth;</hi> If you do not provide a <hi>Competent maintenance,</hi> for a ſettled <hi>Miniſtry,</hi> you may doe as much hurt to the ſoules as you can do good to the bodyes of us; but you are wiſe,<note place="margin">Verbum ſa<g ref="char:EOLhyphen"/>pienti.</note> and this word ſhall ſuffice to have been ſpoken unto you.</p>
+            <p>
+               <hi>Secondly,</hi> Vnto you, <hi>Oh you righteous Judges,</hi> (for ſo I dare call you) <hi>of the high Court of Juſtice:</hi> let me ſay you have done a good worke, in Avenging the blood of Innocent ones, upon <hi>Charles Stuart:</hi> but let me tell you, ſo did <hi>Jehu,</hi> in avenging the blood of <hi>Naboth</hi> upon <hi>Ahab:</hi> Take heed, Oh take heed; that though you have done Iu<g ref="char:EOLhyphen"/>ſtice, that you do not ſuffer from God as Murtherers; In my heart I honour you, hence it is that I ſhall boldly tell you ſo much, <hi>God cer<g ref="char:EOLhyphen"/>tainly will avenge King Charles his blood upon your head, if you did ſhed it out of a vaine glorious deſire to be counted bold, Gallant, and or from any particular ſpleen, or Malice, or ayming at any private or any ſiniſter end.</hi> That act which is <hi>Juſt</hi> in it <hi>ſelfe,</hi> may be <hi>uniuſt</hi> in its <hi>end,</hi> but I hope better things of you and ſuch as accompany righteouſneſſe and Integrity, (though I thus ſpeak) onely remember to examine your hearts: Indeavour that way to cleare your ſelves <hi>i</hi> And then let me tell, you need not ſnffer any feare to poſſeſſe you, for what may be<g ref="char:EOLhyphen"/>fall you for doing of Iuſtice, It will be your honor, to dye as <hi>Mar<g ref="char:EOLhyphen"/>tyrs,</hi> for ſentencing of a <hi>Murtherer;</hi> If ſo be the ſame ſpirit be a<g ref="char:EOLhyphen"/>mongſt you all, which I have cauſe to hope is in ſome of you, I ſhal ſay no more then this unto you; <hi>feare not man who can kill the body, but after that can doe no more.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> unto you whom (for diſtinction ſake) I muſt call <hi>Ma<g ref="char:EOLhyphen"/>lignants,</hi> I would not uſe that word of <hi>Odium:</hi> bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> only for diſtin<g ref="char:EOLhyphen"/>ction: If your eares be not wholly ſtopped: and if you have not ſo much of the <hi>Serpent</hi> in you, as to <hi>refuſe to hearken unto the Charmer;</hi> Let me beſeech you be wiſe once: were I to ſtand upon ſome high and great Mounnaine, (as the Father fancied) &amp; had the voyce of a mighty Trumpet, I would take that for my text, to preach upon un<g ref="char:EOLhyphen"/>to you; <hi>Oh mortall men how long will you delight in vanity and follow
+<pb n="20" facs="tcp:117531:12"/>after lyes;</hi> What a mad thing is't to opoſe that God, who hath a<g ref="char:EOLhyphen"/>gaine, and againe appeared againſt you: ſome of you have rid, <hi>a ſil<g ref="char:EOLhyphen"/>ly</hi> people, as <hi>Balaam</hi> did his <hi>Aſſe,</hi> and your <hi>Aſſes</hi> under you (I mean the people ſeduced by you) have ſeen the <hi>Angell of the Lord</hi> in the way with a drawn ſword; Therefore they have been feigne once, and againe to turne aſide: be not ſo cruell to ſmite them, or to cauſe them to be ſmitten by riding on againe, <hi>Kent</hi> and <hi>Eſſex</hi> have been ſmitten for your ſakes: be ſo good unto them and to your ſelves, as to ceaſe to make any more Inſurrections, leaſt that God who hath appeared againſt you, and deſtroyed your <hi>King,</hi> deſtroy you alſo, If I ſay, I <hi>honour</hi> ſome of you, <hi>I doe not Complement:</hi> and if I profeſſe I <hi>love</hi> you as a <hi>Chriſtian</hi> to your good, <hi>my Conſience hereto beareth me witneſſe that Hye not; Oh, Commune with your hearts upon your beds and be ſtill;</hi> conſider what you have done, and how you have ſpead, and do no more. But if you will go on notwithſtanding all this, <hi>my ſoule ſhall mourne in ſecret for you,</hi> and I ſhall pray Chriſt that he would ſave your ſoules, when you expoſe your body and E<g ref="char:EOLhyphen"/>ſtate to ruine.</p>
+            <p>
+               <hi>Fourthly,</hi> I have a word to ſay to you, <hi>Oh you diſcontented friends!</hi> that word is this; what is the matter that you <hi>Murmur:</hi> Are you troubled that the work is done without you: ſhould you not rather rejoyce that it is done for you; If I ſhould ſay ſome of you, many years ſince, have longed to ſee this day (nay that I have been in com<g ref="char:EOLhyphen"/>pany when you have prayed for it) If I ſhould ſay this, your hearts would tell you, that I might, and not exceed truth. Friends, the fault was yours, you would not be in the worke, when invited: Let me be friendly unto you, and beſeech you to ſearch your heart, and to ſee if ſome <hi>roote of bitterneſſe</hi> (ſome particular intereſt of your own) doe not make you to ſpeak evill of that which is good: Oh, why ſhould you begin to <hi>ſmile</hi> upon thoſe that <hi>hate</hi> you with their hears. And why ſhould you think of joyning hand in hand with thoſe, who firſt with your help would deſtroy us; and afterwards devoure you. Many of you are <hi>Miniſters</hi> (whom I doe honor) let me beſeech you to tell me ſeriouſly, whether <hi>Chriſt ſent you to preach the Goſpel,</hi> or to <hi>vent your thoughts in State Affairs.</hi> I know you look towards <hi>Scotland:</hi> and I am afraid <hi>their Intereſt</hi> makes you <hi>over Act</hi> your ſelves. I ſhould take it as a Courteſie, if you would <hi>Quaere;</hi> ſome of your <hi>Scotch Acquaintance,</hi> and reſolve me in theſe things,</p>
+            <p>
+               <hi>Firſt: whether the King that came out of Scotland into England, had
+<pb n="21" facs="tcp:117531:12"/>more power here, then he had there; And why it hath been reputed ſo lawfull,</hi> (that I ſay not laudable) <hi>for the Scotchmen, to try, and put their Kings,</hi> (ſome of them) <hi>to death, and yet they Queſtion the ſame in us;</hi> ſurely we have ever thought that King <hi>Iames</hi> and his race had as little reaſon to be unjuſt in <hi>England,</hi> as in <hi>Scotland.</hi> And if they might Queſtion him, (as they have former Kings) why may not we.</p>
+            <p>
+               <hi>Secondly,</hi> I deſire to know, <hi>whether or no the Actions of the Army in keeping out ſundry of the Members, of the Houſe of Commons, may not be as lawfull, as the Act of their Kirke in raiſing of an Army not on<g ref="char:EOLhyphen"/>ly with, but againſt their Parliament, the laſt Summer.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> One Queſtion more I would aske, <hi>ſuppoſe a yeare hence a full Parliament ſhould declare, what this Parliament hath done, and the high Court of Juſtice againſt the King to be law: why may not this be as valide and as good: as when a Parliament of theirs did declare that the putting of James the</hi> 3 <hi>to death</hi> (though in a private way) (by pri<g ref="char:EOLhyphen"/>vate perſons) was right and lawfull: and that Declaration of theirs made it Valid.</p>
+            <p>I will leave theſe Queſtions with you, if you ſhall not be ſo kind as to reſolve them. I hope I ſhall not be diſtracted in my thoughts about them. Onely let me beſeech, for by that <hi>deare bond</hi> in which [I hope] I am bound up with many of you to be wiſe. And if in all things you may not be ſo clear, [for preſent] in the actions of the <hi>Parliament</hi> and <hi>Army;</hi> take heed how you <hi>blow up</hi> ſuch a <hi>fire,</hi> as hap<g ref="char:EOLhyphen"/>pily may <hi>burne</hi> yourſelves, yet not <hi>conſume</hi> us.</p>
+            <p>
+               <hi>Laſtly,</hi> I will conclude with one word to all the people of this Land, and Nation. That word is this, I beſeech you <hi>(my fellow coun<g ref="char:EOLhyphen"/>try men)</hi> lay hold on that opportunity of peace, which now preſent<g ref="char:EOLhyphen"/>eth it ſelf unto you, <hi>ſweet peace, bleſſed peace,</hi> beginneth to <hi>court you;</hi> you have long longed for it, it now beſeecheth you to embrace it, <hi>Oh that you were wiſe in this your day, to know the things that belong un<g ref="char:EOLhyphen"/>to your peaee!</hi> [which are doubtleſſe Juſtice and Righteouſneſſe What would you have? <hi>eaſe from Taxes? ſettlement of our ſhaking ſecurity to enjoy your proprieties?</hi> Why, you have all theſe preſent in themſelvs, &amp; they ſeem to beſeech you to accept of them. Oh that God would make you wiſe to take hold on them! you have to lon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>befool'd your ſelves</hi> already, by hearkening unto thoſe, that would ſe<g ref="char:EOLhyphen"/>duce you unto <hi>tyranny:</hi> take heed of giving eare unto any, that ſpe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to you of <hi>Levelling</hi> and <hi>Levellers</hi> [as if there were a deſigne to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all mens <hi>Eſtates levell,</hi> that one ſhould have no more then another
+<pb n="22" facs="tcp:117531:13"/>I dare aſſure you that if ſuch a generation of fools (to ſay no wone) be any where, they are ſo inconſiderable, that what they ſay, doth but declare in them their own madnes, then any thing elſe. Or elſe this let me tell you, there are ſome, whom you have hearkened too much to already; who if they could engage you to endeavour to ſuppreſſe this <hi>Parliament</hi> and <hi>Army;</hi> they would not only <hi>Levell</hi> your <hi>Eſtates,</hi> but <hi>take them away</hi> altogether.</p>
+            <p>
+               <hi>To conclude,</hi> remember it will be your ſafety to ſit ſtill: Take you but heed of <hi>Tumults</hi> and <hi>Jnſurrections,</hi> and the like, and you need not fear, but peace will <hi>ſettle</hi> it ſelf with you. Let me ſpeak this great word [which I have good ground to ſpeak] if God will make you ſo wiſe, as patiently to waite a while, you ſhall ſee <hi>England</hi> a happy Nation. Other parts of the world looke upon you, as you go on, they will follow. It will be a glory unto the <hi>Engliſh Nati<g ref="char:EOLhyphen"/>on,</hi> to give an <hi>example</hi> unto all the people of the Earth, to free them<g ref="char:EOLhyphen"/>ſelves from <hi>Tyranny</hi> and Slavery. I fear not to ſay, however, for our ſins may permit ſome tumults among our ſelves to ſcourge us; yet within a few years we ſhall injoy <hi>truth, peace</hi> and <hi>proſperity,</hi> which ſhall make us [I had almoſt ſaid unalterably] happy.</p>
+            <p>I have even now done [my dear friend] and I confeſs if you blame me, I will thank you for it, that I have ſpent ſo much time, about theſe things; You and I [I hope] look after higher things, then theſe of this nature; and a greater delivery from ſlavery and bon<g ref="char:EOLhyphen"/>dage, then that of the body we pant after and expect. We ſhall be delivered from <hi>the bondage of corruption,</hi> and ere long we ſhall be tranſlated into the <hi>glorious liberty of the children of God;</hi> The whole Creation together with us, travailes in paine, and groanes for this: The <hi>day of Redemption</hi> is at hand: erre long we ſhall ſee him, who wilſettle all things. Doth not the <hi>Spirit it ſelf make Interceſſion for us, with groans that cannot be uttered?</hi> Doth not the <hi>ſpirit</hi> and the <hi>Bride</hi> cry, <hi>come;</hi> Surely ere long, <hi>the Lord whom we looke for ſhall come.</hi> In the mean time, <hi>we know all things worke together for good unto them that love God: even unto them who are called according unto his pur<g ref="char:EOLhyphen"/>poſe.</hi> I ſhall break off, and cloſe up all with this ſubſcription, that I am ſtill,</p>
+            <closer>
+               <signed>Your friend and Servant, <hi>N. T.</hi>
+               </signed>
+               <date>
+                  <hi>Febr.</hi> the 20. 1648.</date>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>March</hi> 12, 1648-49. Imprimatur <hi>Theodore Jennings.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
